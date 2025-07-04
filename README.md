@@ -1,10 +1,6 @@
-Task 1
 This project demonstrates a basic data preprocessing pipeline using the Titanic dataset. It covers essential steps including handling missing values, encoding categorical variables, feature scaling, and outlier detection.
 
-📁 Dataset
-You can download the dataset from this link or use the titanic.csv file if already available in your working directory.
-
-📌 Steps Covered
+Steps Covered
 1. Import and Explore Data
 Load the dataset using pandas
 
