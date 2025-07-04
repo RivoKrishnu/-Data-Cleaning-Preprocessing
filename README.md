@@ -1,4 +1,5 @@
-#Data Preprocessing
+#Data Preprocessing#
+
 This project demonstrates a basic data preprocessing pipeline using the Titanic dataset. It covers essential steps including handling missing values, encoding categorical variables, feature scaling, and outlier detection.
 
 Steps Covered
